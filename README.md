@@ -1,7 +1,9 @@
 # ZÁRÓVIZSGA TÉTELEK ELTE IK Programtervező informatikus BSc szak *(2018 előtti modell)*
-> *[Mozilla Firefox](https://www.mozilla.org/hu/firefox/new/)ban a PDF-ekre mutató külső hivatkozások az adott oldalszámhoz ugranak egyből*
+> *[Mozilla Firefox](https://www.mozilla.org/hu/firefox/new/)ban a PDF-ekre mutató külső hivatkozások az adott oldalszámhoz ugranak egyből.*
 >
-> A kidolgozáshoz az anyagok nagyrészét [Immanuel60](https://immanuel60.hu/elte-ik-zarovizsga-tetelek-kidolgozva/) oldaláról és ebből a [Google Drive](https://drive.google.com/drive/folders/1DPpZIlhz5rrwsZpFSe55BCw_qknTd44P?usp=drive_open)ból vettem ki, valamint az előadók honlapjairól, mint például *(a teljesség ígénye nélkül)*: [dr. Ásványi Tibor](http://aszt.inf.elte.hu/~asvanyi/), [Dr. Fekete István](http://ifekete.web.elte.hu/), [dr. Gregorics Tibor](https://people.inf.elte.hu/gt/), [Nagy Gábor](http://compalg.inf.elte.hu/~nagy/) 
+> A kidolgozáshoz az anyagok nagyrészét [Immanuel60](https://immanuel60.hu/elte-ik-zarovizsga-tetelek-kidolgozva/) oldaláról és ebből a [Google Drive](https://drive.google.com/drive/folders/1DPpZIlhz5rrwsZpFSe55BCw_qknTd44P?usp=drive_open)ból vettem ki, valamint az előadók honlapjairól, mint például *(a teljesség ígénye nélkül)*: [dr. Ásványi Tibor](http://aszt.inf.elte.hu/~asvanyi/), [Dr. Fekete István](http://ifekete.web.elte.hu/), [dr. Gregorics Tibor](https://people.inf.elte.hu/gt/), [Nagy Gábor](http://compalg.inf.elte.hu/~nagy/), [Hunyadvári László](http://aszt.inf.elte.hu/~hunlaci/)
+>
+> További kidolgozások még: https://gitlab.com/dobreffandras/ZV_kidolgozas/-/tree/master/ és https://gitlab.com/laszlo.prahar/zv_kidolgozasok_2020?fbclid=IwAR3av2mIpbBLv_LVGxRiBEBEOSPp0GHG1l6mVFmyYibP-NWWgJ8YpNoSIcA
 
 ## 1. Függvények határértéke, folytonossága
 [Függvények határértéke, folytonossága. Kompakt halmazon folytonos függvények tulajdonságai: Heine-tétel,  Weierstrass-tétel,  Bolzano-tétel.  A  hatványsor   fogalma,   Cauchy-Hadamard-tétel, analitikus függvények.](https://github.com/gabboraron/zarovizsga/blob/master/01%20-%20Sorozatok%2C%20sorok%2C%20fuggvenyek%20hatarerteke%20es%20folytonossaga%20(Ismeretlen%2C%202010).pdf)
